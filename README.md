@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Packet Manipulation
 
 This repository is lab for NCTU course "Introduction to Computer Networks 2018".
@@ -44,3 +45,6 @@ This lab aims to learn how we use Scapy and Python to program a simple network p
 ## License
 
 GNU GENERAL PUBLIC LICENSE Version 3
+=======
+# lab1-allen880117
+>>>>>>> e7c314a192f72b24bc1e625a80bfdf4e496ecfe9
